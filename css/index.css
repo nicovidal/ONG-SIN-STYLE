@@ -1,0 +1,12 @@
+#al{
+    color: #000;
+  }
+  a:link{
+    text-decoration: none;
+  }
+  a:hover {
+    color: #ff1717;
+    cursor: pointer;
+  }
+
+  

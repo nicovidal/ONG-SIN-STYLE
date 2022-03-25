@@ -22,3 +22,8 @@ header a {
 .secion {
     margin: 80px 30px 20px 20px;
 }
+
+a:hover {
+    color: red;
+    cursor: pointer;
+  }

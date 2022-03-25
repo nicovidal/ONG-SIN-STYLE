@@ -39,3 +39,10 @@ th {
 a:link {
     font-size: x-large;
 }
+
+a:hover {
+    color: red;
+    cursor: pointer;
+  }
+
+  

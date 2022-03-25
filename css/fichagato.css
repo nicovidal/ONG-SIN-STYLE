@@ -1,0 +1,24 @@
+/*fichas gatos*/
+
+body {
+    margin: 0 auto;
+    background: url("../imagen/fondo3.jpg");
+   /*  text-align: center; */
+    background-size: cover;
+}
+
+.iniciof {
+    float: right;
+}
+
+header a {
+    font-size: 2em;
+}
+
+.imgG {
+    float: left;
+}
+
+.secion {
+    margin: 80px 30px 20px 20px;
+}

@@ -1,0 +1,80 @@
+body{
+
+    background-color: black;
+    margin: 0 auto;
+}
+
+aside{
+
+    margin: 20px 0px 0px 60px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+
+
+}
+
+
+a{
+
+    background-color: black;
+    color: white;
+    display: block;
+    padding: 12px;
+}
+div{
+    width: 80%;
+    margin: 0px 0px 0px 130px;
+}
+
+.parrafo1{
+
+    background-color:cornflowerblue;
+    color:white;
+    padding: 15px 300px 15px 15px;
+
+}
+.parrafo2{
+
+    background-color:darkgoldenrod;
+    color:white;
+    padding: 15px 300px 15px 15px;
+
+    
+}
+
+.parrafo3{
+
+    background-color:orange;
+    color:white;
+    padding: 15px 300px 15px 15px;
+    
+}
+
+.parrafo4{
+
+    background-color:red;
+    color:white;
+    padding: 15px 300px 15px 15px;
+    
+}
+
+.vertical-menu {
+    width: 200px;
+  }
+  
+  .vertical-menu a {
+    background-color:black; 
+    display: block; 
+    padding: 12px; 
+    text-decoration: none; 
+  }
+  
+  .vertical-menu a:hover {
+    background-color: #ccc; 
+  }
+  
+  .vertical-menu a.active {
+    background-color: #04AA6D; 
+    color: white;
+  }

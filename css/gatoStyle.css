@@ -1,5 +1,13 @@
 /*gato html styles*/
 
+html{
+
+    font-family: sans-serif;
+}
+
+
+
+
 body {
     background: url("../imagen/fondo3.jpg");
     text-align: center;
